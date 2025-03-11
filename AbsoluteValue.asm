@@ -14,10 +14,10 @@ M=D
 @done
 0;JMP
 
-
+(positive)
 @R1
 M=D        
 @R2
 M=0       
 
-
+(done)
